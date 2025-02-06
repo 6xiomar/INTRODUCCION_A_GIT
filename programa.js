@@ -17,19 +17,19 @@ var sitios = [
         latlng: [4.567965319693443, -74.06951085932957]
     },
     {
-        nombre: "Parque Simón Bolívar",
-        latlng: [4.630435, -74.102618],
-        descripcion: "Un gran parque urbano ideal para caminatas y actividades al aire libre."
+        nombre: "Jardín Casa Vecinal",
+        latlng: [4.568104119551267, -74.06975453613973],
+        descripcion: "Institución educativa para primera infancia."
     },
     {
-        nombre: "Monserrate",
-        latlng: [4.595348, -74.240714],
-        descripcion: "Un santuario ubicado en la cima de la montaña Monserrate, con vistas espectaculares de la ciudad."
+        nombre: "Donde Don Pedro",
+        latlng: [4.567655015808869, -74.07042757306428],
+        descripcion: "Tienda de Viveres atendida por Don Pedro."
     },
     {
-        nombre: "Biblioteca Luis Ángel Arango",
-        latlng: [4.598108, -74.073758],
-        descripcion: "Una de las bibliotecas más importantes y visitadas de Colombia."
+        nombre: "Donde La Gata",
+        latlng: [4.567548919929917, -74.07036068377327],
+        descripcion: "Cigarrería"
     }
 ];
 
